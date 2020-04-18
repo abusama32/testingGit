@@ -11,3 +11,6 @@ git commit -m "hi this is 2nd day in git" filname enter
 
 git push -u origin master enter
 
+git checkout qwerty 
+
+
